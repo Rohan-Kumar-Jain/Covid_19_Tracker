@@ -10,7 +10,7 @@ Previous data is also shown for the Global data of Coronavirus Pandemic. This Ap
 
 There is also a Drop Down Menu from where any Countries data can be checked.
 
-The Application is hosted at : https://covid-19-tracker.sharmakumaraditya.now.sh
+The Application is hosted at : [https://covid-19-tracker-zeta.vercel.app/] 
 
 
 # Desktop View of the Application
